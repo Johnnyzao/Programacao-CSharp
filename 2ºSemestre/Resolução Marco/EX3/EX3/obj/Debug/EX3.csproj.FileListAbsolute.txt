@@ -1,0 +1,20 @@
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\EX3\EX3\bin\Debug\EX3.exe.config
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\EX3\EX3\bin\Debug\EX3.exe
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\EX3\EX3\bin\Debug\EX3.pdb
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\EX3\EX3\obj\Debug\EX3.csprojAssemblyReference.cache
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\EX3\EX3\obj\Debug\EX3.Form1.resources
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\EX3\EX3\obj\Debug\EX3.Properties.Resources.resources
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\EX3\EX3\obj\Debug\EX3.csproj.GenerateResource.cache
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\EX3\EX3\obj\Debug\EX3.csproj.CoreCompileInputs.cache
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\EX3\EX3\obj\Debug\EX3.exe
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\EX3\EX3\obj\Debug\EX3.pdb
+C:\Users\A035177\Desktop\EX3-20190301T112507Z-001\EX3\EX3\obj\Debug\EX3.csprojAssemblyReference.cache
+C:\Users\A035177\Desktop\EX3-20190301T112507Z-001\EX3\EX3\obj\Debug\EX3.Form1.resources
+C:\Users\A035177\Desktop\EX3-20190301T112507Z-001\EX3\EX3\obj\Debug\EX3.Properties.Resources.resources
+C:\Users\A035177\Desktop\EX3-20190301T112507Z-001\EX3\EX3\obj\Debug\EX3.csproj.GenerateResource.cache
+C:\Users\A035177\Desktop\EX3-20190301T112507Z-001\EX3\EX3\obj\Debug\EX3.csproj.CoreCompileInputs.cache
+C:\Users\A035177\Desktop\EX3-20190301T112507Z-001\EX3\EX3\obj\Debug\EX3.exe
+C:\Users\A035177\Desktop\EX3-20190301T112507Z-001\EX3\EX3\obj\Debug\EX3.pdb
+C:\Users\A035177\Desktop\EX3-20190301T112507Z-001\EX3\EX3\bin\Debug\EX3.exe.config
+C:\Users\A035177\Desktop\EX3-20190301T112507Z-001\EX3\EX3\bin\Debug\EX3.exe
+C:\Users\A035177\Desktop\EX3-20190301T112507Z-001\EX3\EX3\bin\Debug\EX3.pdb

@@ -1,0 +1,5 @@
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\EX4\EX4\obj\Debug\EX4.csprojAssemblyReference.cache
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\EX4\EX4\obj\Debug\EX4.Form1.resources
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\EX4\EX4\obj\Debug\EX4.Properties.Resources.resources
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\EX4\EX4\obj\Debug\EX4.csproj.GenerateResource.cache
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\EX4\EX4\obj\Debug\EX4.csproj.CoreCompileInputs.cache

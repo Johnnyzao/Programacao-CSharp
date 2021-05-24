@@ -1,0 +1,20 @@
+C:\Users\A035177\Desktop\EX PROGRAMAÇÃO\EX5\EX5\obj\Debug\EX5.csprojAssemblyReference.cache
+C:\Users\A035177\Desktop\EX PROGRAMAÇÃO\EX5\EX5\obj\Debug\EX5.Form1.resources
+C:\Users\A035177\Desktop\EX PROGRAMAÇÃO\EX5\EX5\obj\Debug\EX5.Properties.Resources.resources
+C:\Users\A035177\Desktop\EX PROGRAMAÇÃO\EX5\EX5\obj\Debug\EX5.csproj.GenerateResource.cache
+C:\Users\A035177\Desktop\EX PROGRAMAÇÃO\EX5\EX5\obj\Debug\EX5.csproj.CoreCompileInputs.cache
+C:\Users\A035177\Desktop\EX PROGRAMAÇÃO\EX5\EX5\bin\Debug\EX5.exe.config
+C:\Users\A035177\Desktop\EX PROGRAMAÇÃO\EX5\EX5\bin\Debug\EX5.exe
+C:\Users\A035177\Desktop\EX PROGRAMAÇÃO\EX5\EX5\bin\Debug\EX5.pdb
+C:\Users\A035177\Desktop\EX PROGRAMAÇÃO\EX5\EX5\obj\Debug\EX5.exe
+C:\Users\A035177\Desktop\EX PROGRAMAÇÃO\EX5\EX5\obj\Debug\EX5.pdb
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\EX5\EX5\bin\Debug\EX5.exe.config
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\EX5\EX5\bin\Debug\EX5.exe
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\EX5\EX5\bin\Debug\EX5.pdb
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\EX5\EX5\obj\Debug\EX5.csprojAssemblyReference.cache
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\EX5\EX5\obj\Debug\EX5.Form1.resources
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\EX5\EX5\obj\Debug\EX5.Properties.Resources.resources
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\EX5\EX5\obj\Debug\EX5.csproj.GenerateResource.cache
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\EX5\EX5\obj\Debug\EX5.csproj.CoreCompileInputs.cache
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\EX5\EX5\obj\Debug\EX5.exe
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\EX5\EX5\obj\Debug\EX5.pdb
