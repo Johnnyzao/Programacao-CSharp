@@ -1,0 +1,20 @@
+C:\Users\S1LV3R\Desktop\Estudar teste PSI\E13\E13\bin\Debug\E13.exe.config
+C:\Users\S1LV3R\Desktop\Estudar teste PSI\E13\E13\bin\Debug\E13.exe
+C:\Users\S1LV3R\Desktop\Estudar teste PSI\E13\E13\bin\Debug\E13.pdb
+C:\Users\S1LV3R\Desktop\Estudar teste PSI\E13\E13\obj\Debug\E13.csprojAssemblyReference.cache
+C:\Users\S1LV3R\Desktop\Estudar teste PSI\E13\E13\obj\Debug\E13.Form1.resources
+C:\Users\S1LV3R\Desktop\Estudar teste PSI\E13\E13\obj\Debug\E13.Properties.Resources.resources
+C:\Users\S1LV3R\Desktop\Estudar teste PSI\E13\E13\obj\Debug\E13.csproj.GenerateResource.cache
+C:\Users\S1LV3R\Desktop\Estudar teste PSI\E13\E13\obj\Debug\E13.csproj.CoreCompileInputs.cache
+C:\Users\S1LV3R\Desktop\Estudar teste PSI\E13\E13\obj\Debug\E13.exe
+C:\Users\S1LV3R\Desktop\Estudar teste PSI\E13\E13\obj\Debug\E13.pdb
+C:\Users\JohnnyDesktop\Downloads\E13\E13\bin\Debug\E13.exe.config
+C:\Users\JohnnyDesktop\Downloads\E13\E13\bin\Debug\E13.exe
+C:\Users\JohnnyDesktop\Downloads\E13\E13\bin\Debug\E13.pdb
+C:\Users\JohnnyDesktop\Downloads\E13\E13\obj\Debug\E13.csprojAssemblyReference.cache
+C:\Users\JohnnyDesktop\Downloads\E13\E13\obj\Debug\E13.Form1.resources
+C:\Users\JohnnyDesktop\Downloads\E13\E13\obj\Debug\E13.Properties.Resources.resources
+C:\Users\JohnnyDesktop\Downloads\E13\E13\obj\Debug\E13.csproj.GenerateResource.cache
+C:\Users\JohnnyDesktop\Downloads\E13\E13\obj\Debug\E13.csproj.CoreCompileInputs.cache
+C:\Users\JohnnyDesktop\Downloads\E13\E13\obj\Debug\E13.exe
+C:\Users\JohnnyDesktop\Downloads\E13\E13\obj\Debug\E13.pdb
