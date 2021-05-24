@@ -6,3 +6,4 @@ public bool ComparaData(DateTime a)
                 return true;
             return false;
         }
+        // Crie um método ComparaData() que receba um objecto DateTime como argumento e retorne um valor booleano indicando se a Data do automóvel é anterior (true) ou posterior (false) à Data passada como ar
