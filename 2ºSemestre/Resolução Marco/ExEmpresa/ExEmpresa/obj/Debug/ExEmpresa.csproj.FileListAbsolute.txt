@@ -1,0 +1,20 @@
+\\zeno\alunos$\A035177\2º SEMESTRE\EX PROGRAMAÇÃO\ExEmpresa\ExEmpresa\bin\Debug\ExEmpresa.exe.config
+\\zeno\alunos$\A035177\2º SEMESTRE\EX PROGRAMAÇÃO\ExEmpresa\ExEmpresa\bin\Debug\ExEmpresa.exe
+\\zeno\alunos$\A035177\2º SEMESTRE\EX PROGRAMAÇÃO\ExEmpresa\ExEmpresa\bin\Debug\ExEmpresa.pdb
+\\zeno\alunos$\A035177\2º SEMESTRE\EX PROGRAMAÇÃO\ExEmpresa\ExEmpresa\obj\Debug\ExEmpresa.csprojAssemblyReference.cache
+\\zeno\alunos$\A035177\2º SEMESTRE\EX PROGRAMAÇÃO\ExEmpresa\ExEmpresa\obj\Debug\ExEmpresa.Form1.resources
+\\zeno\alunos$\A035177\2º SEMESTRE\EX PROGRAMAÇÃO\ExEmpresa\ExEmpresa\obj\Debug\ExEmpresa.Properties.Resources.resources
+\\zeno\alunos$\A035177\2º SEMESTRE\EX PROGRAMAÇÃO\ExEmpresa\ExEmpresa\obj\Debug\ExEmpresa.csproj.GenerateResource.cache
+\\zeno\alunos$\A035177\2º SEMESTRE\EX PROGRAMAÇÃO\ExEmpresa\ExEmpresa\obj\Debug\ExEmpresa.csproj.CoreCompileInputs.cache
+\\zeno\alunos$\A035177\2º SEMESTRE\EX PROGRAMAÇÃO\ExEmpresa\ExEmpresa\obj\Debug\ExEmpresa.exe
+\\zeno\alunos$\A035177\2º SEMESTRE\EX PROGRAMAÇÃO\ExEmpresa\ExEmpresa\obj\Debug\ExEmpresa.pdb
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExEmpresa\ExEmpresa\bin\Debug\ExEmpresa.exe.config
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExEmpresa\ExEmpresa\bin\Debug\ExEmpresa.exe
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExEmpresa\ExEmpresa\bin\Debug\ExEmpresa.pdb
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExEmpresa\ExEmpresa\obj\Debug\ExEmpresa.csprojAssemblyReference.cache
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExEmpresa\ExEmpresa\obj\Debug\ExEmpresa.Form1.resources
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExEmpresa\ExEmpresa\obj\Debug\ExEmpresa.Properties.Resources.resources
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExEmpresa\ExEmpresa\obj\Debug\ExEmpresa.csproj.GenerateResource.cache
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExEmpresa\ExEmpresa\obj\Debug\ExEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExEmpresa\ExEmpresa\obj\Debug\ExEmpresa.exe
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExEmpresa\ExEmpresa\obj\Debug\ExEmpresa.pdb

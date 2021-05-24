@@ -1,0 +1,20 @@
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExEquipaFutebol\ExEquipaFutebol\bin\Debug\ExEquipaFutebol.exe.config
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExEquipaFutebol\ExEquipaFutebol\bin\Debug\ExEquipaFutebol.exe
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExEquipaFutebol\ExEquipaFutebol\bin\Debug\ExEquipaFutebol.pdb
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExEquipaFutebol\ExEquipaFutebol\obj\Debug\ExEquipaFutebol.csprojAssemblyReference.cache
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExEquipaFutebol\ExEquipaFutebol\obj\Debug\ExEquipaFutebol.Form1.resources
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExEquipaFutebol\ExEquipaFutebol\obj\Debug\ExEquipaFutebol.Properties.Resources.resources
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExEquipaFutebol\ExEquipaFutebol\obj\Debug\ExEquipaFutebol.csproj.GenerateResource.cache
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExEquipaFutebol\ExEquipaFutebol\obj\Debug\ExEquipaFutebol.csproj.CoreCompileInputs.cache
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExEquipaFutebol\ExEquipaFutebol\obj\Debug\ExEquipaFutebol.exe
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExEquipaFutebol\ExEquipaFutebol\obj\Debug\ExEquipaFutebol.pdb
+D:\Aulas\Curso Programação\PROGRAMAÇÂO\2ºTeste Programação-2ºSemestre\Exercícios Do Marco\ExEquipaFutebol\ExEquipaFutebol\bin\Debug\ExEquipaFutebol.exe.config
+D:\Aulas\Curso Programação\PROGRAMAÇÂO\2ºTeste Programação-2ºSemestre\Exercícios Do Marco\ExEquipaFutebol\ExEquipaFutebol\bin\Debug\ExEquipaFutebol.exe
+D:\Aulas\Curso Programação\PROGRAMAÇÂO\2ºTeste Programação-2ºSemestre\Exercícios Do Marco\ExEquipaFutebol\ExEquipaFutebol\bin\Debug\ExEquipaFutebol.pdb
+D:\Aulas\Curso Programação\PROGRAMAÇÂO\2ºTeste Programação-2ºSemestre\Exercícios Do Marco\ExEquipaFutebol\ExEquipaFutebol\obj\Debug\ExEquipaFutebol.csprojAssemblyReference.cache
+D:\Aulas\Curso Programação\PROGRAMAÇÂO\2ºTeste Programação-2ºSemestre\Exercícios Do Marco\ExEquipaFutebol\ExEquipaFutebol\obj\Debug\ExEquipaFutebol.Form1.resources
+D:\Aulas\Curso Programação\PROGRAMAÇÂO\2ºTeste Programação-2ºSemestre\Exercícios Do Marco\ExEquipaFutebol\ExEquipaFutebol\obj\Debug\ExEquipaFutebol.Properties.Resources.resources
+D:\Aulas\Curso Programação\PROGRAMAÇÂO\2ºTeste Programação-2ºSemestre\Exercícios Do Marco\ExEquipaFutebol\ExEquipaFutebol\obj\Debug\ExEquipaFutebol.csproj.GenerateResource.cache
+D:\Aulas\Curso Programação\PROGRAMAÇÂO\2ºTeste Programação-2ºSemestre\Exercícios Do Marco\ExEquipaFutebol\ExEquipaFutebol\obj\Debug\ExEquipaFutebol.csproj.CoreCompileInputs.cache
+D:\Aulas\Curso Programação\PROGRAMAÇÂO\2ºTeste Programação-2ºSemestre\Exercícios Do Marco\ExEquipaFutebol\ExEquipaFutebol\obj\Debug\ExEquipaFutebol.exe
+D:\Aulas\Curso Programação\PROGRAMAÇÂO\2ºTeste Programação-2ºSemestre\Exercícios Do Marco\ExEquipaFutebol\ExEquipaFutebol\obj\Debug\ExEquipaFutebol.pdb

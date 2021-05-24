@@ -1,0 +1,10 @@
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExFormasGeometricasParte2\ExFormasGeometricasParte2\bin\Debug\ExFormasGeometricasParte2.exe.config
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExFormasGeometricasParte2\ExFormasGeometricasParte2\bin\Debug\ExFormasGeometricasParte2.exe
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExFormasGeometricasParte2\ExFormasGeometricasParte2\bin\Debug\ExFormasGeometricasParte2.pdb
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExFormasGeometricasParte2\ExFormasGeometricasParte2\obj\Debug\ExFormasGeometricasParte2.csprojAssemblyReference.cache
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExFormasGeometricasParte2\ExFormasGeometricasParte2\obj\Debug\ExFormasGeometricasParte2.Properties.Resources.resources
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExFormasGeometricasParte2\ExFormasGeometricasParte2\obj\Debug\ExFormasGeometricasParte2.csproj.GenerateResource.cache
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExFormasGeometricasParte2\ExFormasGeometricasParte2\obj\Debug\ExFormasGeometricasParte2.csproj.CoreCompileInputs.cache
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExFormasGeometricasParte2\ExFormasGeometricasParte2\obj\Debug\ExFormasGeometricasParte2.exe
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExFormasGeometricasParte2\ExFormasGeometricasParte2\obj\Debug\ExFormasGeometricasParte2.pdb
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExFormasGeometricasParte2\ExFormasGeometricasParte2\obj\Debug\ExFormasGeometricasParte2.Form1.resources

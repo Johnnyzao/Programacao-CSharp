@@ -1,0 +1,40 @@
+C:\Users\A035177\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExFormaGeometrica\ExFormaGeometrica\bin\Debug\ExFormaGeometrica.exe.config
+C:\Users\A035177\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExFormaGeometrica\ExFormaGeometrica\bin\Debug\ExFormaGeometrica.exe
+C:\Users\A035177\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExFormaGeometrica\ExFormaGeometrica\bin\Debug\ExFormaGeometrica.pdb
+C:\Users\A035177\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExFormaGeometrica\ExFormaGeometrica\obj\Debug\ExFormaGeometrica.csprojAssemblyReference.cache
+C:\Users\A035177\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExFormaGeometrica\ExFormaGeometrica\obj\Debug\ExFormaGeometrica.Form1.resources
+C:\Users\A035177\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExFormaGeometrica\ExFormaGeometrica\obj\Debug\ExFormaGeometrica.Properties.Resources.resources
+C:\Users\A035177\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExFormaGeometrica\ExFormaGeometrica\obj\Debug\ExFormaGeometrica.csproj.GenerateResource.cache
+C:\Users\A035177\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExFormaGeometrica\ExFormaGeometrica\obj\Debug\ExFormaGeometrica.csproj.CoreCompileInputs.cache
+C:\Users\A035177\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExFormaGeometrica\ExFormaGeometrica\obj\Debug\ExFormaGeometrica.exe
+C:\Users\A035177\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExFormaGeometrica\ExFormaGeometrica\obj\Debug\ExFormaGeometrica.pdb
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExFormaGeometrica\ExFormaGeometrica\obj\Debug\ExFormaGeometrica.csprojAssemblyReference.cache
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExFormaGeometrica\ExFormaGeometrica\obj\Debug\ExFormaGeometrica.Form1.resources
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExFormaGeometrica\ExFormaGeometrica\obj\Debug\ExFormaGeometrica.Properties.Resources.resources
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExFormaGeometrica\ExFormaGeometrica\obj\Debug\ExFormaGeometrica.csproj.GenerateResource.cache
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExFormaGeometrica\ExFormaGeometrica\obj\Debug\ExFormaGeometrica.csproj.CoreCompileInputs.cache
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExFormaGeometrica\ExFormaGeometrica\obj\Debug\ExFormaGeometrica.exe
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExFormaGeometrica\ExFormaGeometrica\obj\Debug\ExFormaGeometrica.pdb
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExFormaGeometrica\ExFormaGeometrica\bin\Debug\ExFormaGeometrica.exe.config
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExFormaGeometrica\ExFormaGeometrica\bin\Debug\ExFormaGeometrica.exe
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExFormaGeometrica\ExFormaGeometrica\bin\Debug\ExFormaGeometrica.pdb
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExFormaGeometrica\ExFormaGeometrica\bin\Debug\ExFormaGeometrica.exe.config
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExFormaGeometrica\ExFormaGeometrica\bin\Debug\ExFormaGeometrica.exe
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExFormaGeometrica\ExFormaGeometrica\bin\Debug\ExFormaGeometrica.pdb
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExFormaGeometrica\ExFormaGeometrica\obj\Debug\ExFormaGeometrica.csprojAssemblyReference.cache
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExFormaGeometrica\ExFormaGeometrica\obj\Debug\ExFormaGeometrica.Form1.resources
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExFormaGeometrica\ExFormaGeometrica\obj\Debug\ExFormaGeometrica.Properties.Resources.resources
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExFormaGeometrica\ExFormaGeometrica\obj\Debug\ExFormaGeometrica.csproj.GenerateResource.cache
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExFormaGeometrica\ExFormaGeometrica\obj\Debug\ExFormaGeometrica.csproj.CoreCompileInputs.cache
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExFormaGeometrica\ExFormaGeometrica\obj\Debug\ExFormaGeometrica.exe
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExFormaGeometrica\ExFormaGeometrica\obj\Debug\ExFormaGeometrica.pdb
+D:\Aulas\Curso Programação\PROGRAMAÇÂO\2ºTeste Programação-2ºSemestre\Exercícios Do Marco\ExFormaGeometrica\ExFormaGeometrica\bin\Debug\ExFormaGeometrica.exe.config
+D:\Aulas\Curso Programação\PROGRAMAÇÂO\2ºTeste Programação-2ºSemestre\Exercícios Do Marco\ExFormaGeometrica\ExFormaGeometrica\bin\Debug\ExFormaGeometrica.exe
+D:\Aulas\Curso Programação\PROGRAMAÇÂO\2ºTeste Programação-2ºSemestre\Exercícios Do Marco\ExFormaGeometrica\ExFormaGeometrica\bin\Debug\ExFormaGeometrica.pdb
+D:\Aulas\Curso Programação\PROGRAMAÇÂO\2ºTeste Programação-2ºSemestre\Exercícios Do Marco\ExFormaGeometrica\ExFormaGeometrica\obj\Debug\ExFormaGeometrica.csprojAssemblyReference.cache
+D:\Aulas\Curso Programação\PROGRAMAÇÂO\2ºTeste Programação-2ºSemestre\Exercícios Do Marco\ExFormaGeometrica\ExFormaGeometrica\obj\Debug\ExFormaGeometrica.Form1.resources
+D:\Aulas\Curso Programação\PROGRAMAÇÂO\2ºTeste Programação-2ºSemestre\Exercícios Do Marco\ExFormaGeometrica\ExFormaGeometrica\obj\Debug\ExFormaGeometrica.Properties.Resources.resources
+D:\Aulas\Curso Programação\PROGRAMAÇÂO\2ºTeste Programação-2ºSemestre\Exercícios Do Marco\ExFormaGeometrica\ExFormaGeometrica\obj\Debug\ExFormaGeometrica.csproj.GenerateResource.cache
+D:\Aulas\Curso Programação\PROGRAMAÇÂO\2ºTeste Programação-2ºSemestre\Exercícios Do Marco\ExFormaGeometrica\ExFormaGeometrica\obj\Debug\ExFormaGeometrica.csproj.CoreCompileInputs.cache
+D:\Aulas\Curso Programação\PROGRAMAÇÂO\2ºTeste Programação-2ºSemestre\Exercícios Do Marco\ExFormaGeometrica\ExFormaGeometrica\obj\Debug\ExFormaGeometrica.exe
+D:\Aulas\Curso Programação\PROGRAMAÇÂO\2ºTeste Programação-2ºSemestre\Exercícios Do Marco\ExFormaGeometrica\ExFormaGeometrica\obj\Debug\ExFormaGeometrica.pdb
