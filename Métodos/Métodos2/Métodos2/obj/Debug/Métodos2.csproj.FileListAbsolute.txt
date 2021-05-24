@@ -1,0 +1,9 @@
+C:\Users\a034576\source\repos\Métodos2\Métodos2\bin\Debug\Métodos2.exe.config
+C:\Users\a034576\source\repos\Métodos2\Métodos2\bin\Debug\Métodos2.exe
+C:\Users\a034576\source\repos\Métodos2\Métodos2\bin\Debug\Métodos2.pdb
+C:\Users\a034576\source\repos\Métodos2\Métodos2\obj\Debug\Métodos2.Form1.resources
+C:\Users\a034576\source\repos\Métodos2\Métodos2\obj\Debug\Métodos2.Properties.Resources.resources
+C:\Users\a034576\source\repos\Métodos2\Métodos2\obj\Debug\Métodos2.csproj.GenerateResource.cache
+C:\Users\a034576\source\repos\Métodos2\Métodos2\obj\Debug\Métodos2.csproj.CoreCompileInputs.cache
+C:\Users\a034576\source\repos\Métodos2\Métodos2\obj\Debug\Métodos2.exe
+C:\Users\a034576\source\repos\Métodos2\Métodos2\obj\Debug\Métodos2.pdb

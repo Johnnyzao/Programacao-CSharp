@@ -1,0 +1,9 @@
+C:\Users\a034576\source\repos\Métodos3\Métodos3\bin\Debug\Métodos3.exe.config
+C:\Users\a034576\source\repos\Métodos3\Métodos3\bin\Debug\Métodos3.exe
+C:\Users\a034576\source\repos\Métodos3\Métodos3\bin\Debug\Métodos3.pdb
+C:\Users\a034576\source\repos\Métodos3\Métodos3\obj\Debug\Métodos3.Form1.resources
+C:\Users\a034576\source\repos\Métodos3\Métodos3\obj\Debug\Métodos3.Properties.Resources.resources
+C:\Users\a034576\source\repos\Métodos3\Métodos3\obj\Debug\Métodos3.csproj.GenerateResource.cache
+C:\Users\a034576\source\repos\Métodos3\Métodos3\obj\Debug\Métodos3.csproj.CoreCompileInputs.cache
+C:\Users\a034576\source\repos\Métodos3\Métodos3\obj\Debug\Métodos3.exe
+C:\Users\a034576\source\repos\Métodos3\Métodos3\obj\Debug\Métodos3.pdb

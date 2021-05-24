@@ -1,0 +1,10 @@
+C:\Users\a034576\source\repos\Métodos\Métodos\bin\Debug\Métodos.exe.config
+C:\Users\a034576\source\repos\Métodos\Métodos\bin\Debug\Métodos.exe
+C:\Users\a034576\source\repos\Métodos\Métodos\bin\Debug\Métodos.pdb
+C:\Users\a034576\source\repos\Métodos\Métodos\obj\Debug\Métodos.csprojAssemblyReference.cache
+C:\Users\a034576\source\repos\Métodos\Métodos\obj\Debug\Métodos.Form1.resources
+C:\Users\a034576\source\repos\Métodos\Métodos\obj\Debug\Métodos.Properties.Resources.resources
+C:\Users\a034576\source\repos\Métodos\Métodos\obj\Debug\Métodos.csproj.GenerateResource.cache
+C:\Users\a034576\source\repos\Métodos\Métodos\obj\Debug\Métodos.csproj.CoreCompileInputs.cache
+C:\Users\a034576\source\repos\Métodos\Métodos\obj\Debug\Métodos.exe
+C:\Users\a034576\source\repos\Métodos\Métodos\obj\Debug\Métodos.pdb
