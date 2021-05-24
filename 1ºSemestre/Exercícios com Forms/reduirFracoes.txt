@@ -1,0 +1,8 @@
+int num, dec;
+
+for( i = Math.Min(num, dec); i>=2; i--){
+	if(num % i == 0 && dec % i == 0){
+		num/=i;
+		dec/=i;
+	}
+}

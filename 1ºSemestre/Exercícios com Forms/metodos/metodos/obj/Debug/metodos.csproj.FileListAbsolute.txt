@@ -1,0 +1,10 @@
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\metodos\metodos\bin\Debug\metodos.exe.config
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\metodos\metodos\bin\Debug\metodos.exe
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\metodos\metodos\bin\Debug\metodos.pdb
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\metodos\metodos\obj\Debug\metodos.csprojAssemblyReference.cache
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\metodos\metodos\obj\Debug\metodos.Form1.resources
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\metodos\metodos\obj\Debug\metodos.Properties.Resources.resources
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\metodos\metodos\obj\Debug\metodos.csproj.GenerateResource.cache
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\metodos\metodos\obj\Debug\metodos.csproj.CoreCompileInputs.cache
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\metodos\metodos\obj\Debug\metodos.exe
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\metodos\metodos\obj\Debug\metodos.pdb

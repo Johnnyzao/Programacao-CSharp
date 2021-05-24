@@ -1,0 +1,19 @@
+//começámos com o número 1 e 2 e o seguinte é a soma dos anteriores
+
+1 -> 2 -> 3 -> 5 -> 8 -> 13 -> 21 -> 34
+
+ex:
+
+int num1 = 1;
+int num2 = 2;
+int fibo = num1 + num2;
+
+lb.Items.Add(num1);
+lb.Items.Add(num2);
+
+do{
+	fibo = num1+ num2;
+	lb.Items.add(fibo);
+	num1 = num2;
+	num2 = fibo;
+}while(fibo <1000)   
