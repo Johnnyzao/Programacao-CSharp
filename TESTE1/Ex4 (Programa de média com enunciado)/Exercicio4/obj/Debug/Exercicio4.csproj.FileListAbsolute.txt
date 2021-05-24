@@ -1,0 +1,20 @@
+C:\Users\a035188\Desktop\Exercicio4\Exercicio4\bin\Debug\Exercicio4.exe.config
+C:\Users\a035188\Desktop\Exercicio4\Exercicio4\bin\Debug\Exercicio4.exe
+C:\Users\a035188\Desktop\Exercicio4\Exercicio4\bin\Debug\Exercicio4.pdb
+C:\Users\a035188\Desktop\Exercicio4\Exercicio4\obj\Debug\Exercicio4.csprojAssemblyReference.cache
+C:\Users\a035188\Desktop\Exercicio4\Exercicio4\obj\Debug\Exercicio4.Form1.resources
+C:\Users\a035188\Desktop\Exercicio4\Exercicio4\obj\Debug\Exercicio4.Properties.Resources.resources
+C:\Users\a035188\Desktop\Exercicio4\Exercicio4\obj\Debug\Exercicio4.csproj.GenerateResource.cache
+C:\Users\a035188\Desktop\Exercicio4\Exercicio4\obj\Debug\Exercicio4.csproj.CoreCompileInputs.cache
+C:\Users\a035188\Desktop\Exercicio4\Exercicio4\obj\Debug\Exercicio4.exe
+C:\Users\a035188\Desktop\Exercicio4\Exercicio4\obj\Debug\Exercicio4.pdb
+C:\Users\JohnnyDesktop\Desktop\Preparação Exame\Exercicio4\Exercicio4\bin\Debug\Exercicio4.exe.config
+C:\Users\JohnnyDesktop\Desktop\Preparação Exame\Exercicio4\Exercicio4\bin\Debug\Exercicio4.exe
+C:\Users\JohnnyDesktop\Desktop\Preparação Exame\Exercicio4\Exercicio4\bin\Debug\Exercicio4.pdb
+C:\Users\JohnnyDesktop\Desktop\Preparação Exame\Exercicio4\Exercicio4\obj\Debug\Exercicio4.csprojAssemblyReference.cache
+C:\Users\JohnnyDesktop\Desktop\Preparação Exame\Exercicio4\Exercicio4\obj\Debug\Exercicio4.Form1.resources
+C:\Users\JohnnyDesktop\Desktop\Preparação Exame\Exercicio4\Exercicio4\obj\Debug\Exercicio4.Properties.Resources.resources
+C:\Users\JohnnyDesktop\Desktop\Preparação Exame\Exercicio4\Exercicio4\obj\Debug\Exercicio4.csproj.GenerateResource.cache
+C:\Users\JohnnyDesktop\Desktop\Preparação Exame\Exercicio4\Exercicio4\obj\Debug\Exercicio4.csproj.CoreCompileInputs.cache
+C:\Users\JohnnyDesktop\Desktop\Preparação Exame\Exercicio4\Exercicio4\obj\Debug\Exercicio4.exe
+C:\Users\JohnnyDesktop\Desktop\Preparação Exame\Exercicio4\Exercicio4\obj\Debug\Exercicio4.pdb
