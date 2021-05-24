@@ -1,0 +1,20 @@
+G:\Ctesp_TPSI\1ºAno\2ºSemestre\Programação Orientada a Objetos\exercicios_avançados\exercicio8\exercicio8\bin\Debug\exercicio8.exe.config
+G:\Ctesp_TPSI\1ºAno\2ºSemestre\Programação Orientada a Objetos\exercicios_avançados\exercicio8\exercicio8\bin\Debug\exercicio8.exe
+G:\Ctesp_TPSI\1ºAno\2ºSemestre\Programação Orientada a Objetos\exercicios_avançados\exercicio8\exercicio8\bin\Debug\exercicio8.pdb
+G:\Ctesp_TPSI\1ºAno\2ºSemestre\Programação Orientada a Objetos\exercicios_avançados\exercicio8\exercicio8\obj\Debug\exercicio8.csprojAssemblyReference.cache
+G:\Ctesp_TPSI\1ºAno\2ºSemestre\Programação Orientada a Objetos\exercicios_avançados\exercicio8\exercicio8\obj\Debug\exercicio8.Form1.resources
+G:\Ctesp_TPSI\1ºAno\2ºSemestre\Programação Orientada a Objetos\exercicios_avançados\exercicio8\exercicio8\obj\Debug\exercicio8.Properties.Resources.resources
+G:\Ctesp_TPSI\1ºAno\2ºSemestre\Programação Orientada a Objetos\exercicios_avançados\exercicio8\exercicio8\obj\Debug\exercicio8.csproj.GenerateResource.cache
+G:\Ctesp_TPSI\1ºAno\2ºSemestre\Programação Orientada a Objetos\exercicios_avançados\exercicio8\exercicio8\obj\Debug\exercicio8.csproj.CoreCompileInputs.cache
+G:\Ctesp_TPSI\1ºAno\2ºSemestre\Programação Orientada a Objetos\exercicios_avançados\exercicio8\exercicio8\obj\Debug\exercicio8.exe
+G:\Ctesp_TPSI\1ºAno\2ºSemestre\Programação Orientada a Objetos\exercicios_avançados\exercicio8\exercicio8\obj\Debug\exercicio8.pdb
+C:\Users\JohnnyDesktop\Downloads\exercicio8\exercicio8\bin\Debug\exercicio8.exe.config
+C:\Users\JohnnyDesktop\Downloads\exercicio8\exercicio8\bin\Debug\exercicio8.exe
+C:\Users\JohnnyDesktop\Downloads\exercicio8\exercicio8\bin\Debug\exercicio8.pdb
+C:\Users\JohnnyDesktop\Downloads\exercicio8\exercicio8\obj\Debug\exercicio8.csprojAssemblyReference.cache
+C:\Users\JohnnyDesktop\Downloads\exercicio8\exercicio8\obj\Debug\exercicio8.Form1.resources
+C:\Users\JohnnyDesktop\Downloads\exercicio8\exercicio8\obj\Debug\exercicio8.Properties.Resources.resources
+C:\Users\JohnnyDesktop\Downloads\exercicio8\exercicio8\obj\Debug\exercicio8.csproj.GenerateResource.cache
+C:\Users\JohnnyDesktop\Downloads\exercicio8\exercicio8\obj\Debug\exercicio8.csproj.CoreCompileInputs.cache
+C:\Users\JohnnyDesktop\Downloads\exercicio8\exercicio8\obj\Debug\exercicio8.exe
+C:\Users\JohnnyDesktop\Downloads\exercicio8\exercicio8\obj\Debug\exercicio8.pdb
