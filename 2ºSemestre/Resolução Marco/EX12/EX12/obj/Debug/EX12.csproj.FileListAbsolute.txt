@@ -1,0 +1,20 @@
+\\zeno\alunos$\A035177\2º SEMESTRE\EX PROGRAMAÇÃO\EX12\EX12\bin\Debug\EX12.exe.config
+\\zeno\alunos$\A035177\2º SEMESTRE\EX PROGRAMAÇÃO\EX12\EX12\bin\Debug\EX12.exe
+\\zeno\alunos$\A035177\2º SEMESTRE\EX PROGRAMAÇÃO\EX12\EX12\bin\Debug\EX12.pdb
+\\zeno\alunos$\A035177\2º SEMESTRE\EX PROGRAMAÇÃO\EX12\EX12\obj\Debug\EX12.csprojAssemblyReference.cache
+\\zeno\alunos$\A035177\2º SEMESTRE\EX PROGRAMAÇÃO\EX12\EX12\obj\Debug\EX12.Form1.resources
+\\zeno\alunos$\A035177\2º SEMESTRE\EX PROGRAMAÇÃO\EX12\EX12\obj\Debug\EX12.Properties.Resources.resources
+\\zeno\alunos$\A035177\2º SEMESTRE\EX PROGRAMAÇÃO\EX12\EX12\obj\Debug\EX12.csproj.GenerateResource.cache
+\\zeno\alunos$\A035177\2º SEMESTRE\EX PROGRAMAÇÃO\EX12\EX12\obj\Debug\EX12.csproj.CoreCompileInputs.cache
+\\zeno\alunos$\A035177\2º SEMESTRE\EX PROGRAMAÇÃO\EX12\EX12\obj\Debug\EX12.exe
+\\zeno\alunos$\A035177\2º SEMESTRE\EX PROGRAMAÇÃO\EX12\EX12\obj\Debug\EX12.pdb
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\EX12\EX12\bin\Debug\EX12.exe.config
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\EX12\EX12\bin\Debug\EX12.exe
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\EX12\EX12\bin\Debug\EX12.pdb
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\EX12\EX12\obj\Debug\EX12.csprojAssemblyReference.cache
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\EX12\EX12\obj\Debug\EX12.Form1.resources
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\EX12\EX12\obj\Debug\EX12.Properties.Resources.resources
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\EX12\EX12\obj\Debug\EX12.csproj.GenerateResource.cache
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\EX12\EX12\obj\Debug\EX12.csproj.CoreCompileInputs.cache
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\EX12\EX12\obj\Debug\EX12.exe
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\EX12\EX12\obj\Debug\EX12.pdb
