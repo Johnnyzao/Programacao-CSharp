@@ -1,0 +1,9 @@
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\ExercicioFatorial\ExercicioFatorial\bin\Debug\ExercicioFatorial.exe.config
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\ExercicioFatorial\ExercicioFatorial\bin\Debug\ExercicioFatorial.exe
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\ExercicioFatorial\ExercicioFatorial\bin\Debug\ExercicioFatorial.pdb
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\ExercicioFatorial\ExercicioFatorial\obj\Debug\ExercicioFatorial.Form1.resources
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\ExercicioFatorial\ExercicioFatorial\obj\Debug\ExercicioFatorial.Properties.Resources.resources
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\ExercicioFatorial\ExercicioFatorial\obj\Debug\ExercicioFatorial.csproj.GenerateResource.cache
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\ExercicioFatorial\ExercicioFatorial\obj\Debug\ExercicioFatorial.csproj.CoreCompileInputs.cache
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\ExercicioFatorial\ExercicioFatorial\obj\Debug\ExercicioFatorial.exe
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\ExercicioFatorial\ExercicioFatorial\obj\Debug\ExercicioFatorial.pdb

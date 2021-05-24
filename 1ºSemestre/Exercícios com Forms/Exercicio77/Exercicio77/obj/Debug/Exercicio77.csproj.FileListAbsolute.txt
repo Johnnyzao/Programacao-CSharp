@@ -1,0 +1,19 @@
+C:\Users\pedro\OneDrive - Maieutica\Introdução à programação\exercícios de programação\Exercicio77\Exercicio77\bin\Debug\Exercicio77.exe.config
+C:\Users\pedro\OneDrive - Maieutica\Introdução à programação\exercícios de programação\Exercicio77\Exercicio77\bin\Debug\Exercicio77.exe
+C:\Users\pedro\OneDrive - Maieutica\Introdução à programação\exercícios de programação\Exercicio77\Exercicio77\bin\Debug\Exercicio77.pdb
+C:\Users\pedro\OneDrive - Maieutica\Introdução à programação\exercícios de programação\Exercicio77\Exercicio77\obj\Debug\Exercicio77.Form1.resources
+C:\Users\pedro\OneDrive - Maieutica\Introdução à programação\exercícios de programação\Exercicio77\Exercicio77\obj\Debug\Exercicio77.Properties.Resources.resources
+C:\Users\pedro\OneDrive - Maieutica\Introdução à programação\exercícios de programação\Exercicio77\Exercicio77\obj\Debug\Exercicio77.csproj.GenerateResource.cache
+C:\Users\pedro\OneDrive - Maieutica\Introdução à programação\exercícios de programação\Exercicio77\Exercicio77\obj\Debug\Exercicio77.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive - Maieutica\Introdução à programação\exercícios de programação\Exercicio77\Exercicio77\obj\Debug\Exercicio77.exe
+C:\Users\pedro\OneDrive - Maieutica\Introdução à programação\exercícios de programação\Exercicio77\Exercicio77\obj\Debug\Exercicio77.pdb
+C:\Users\JohnnyDesktop\Desktop\Preparação Exame\Exercícios com Form\Exercícios\Exercicio77\Exercicio77\bin\Debug\Exercicio77.exe.config
+C:\Users\JohnnyDesktop\Desktop\Preparação Exame\Exercícios com Form\Exercícios\Exercicio77\Exercicio77\bin\Debug\Exercicio77.exe
+C:\Users\JohnnyDesktop\Desktop\Preparação Exame\Exercícios com Form\Exercícios\Exercicio77\Exercicio77\bin\Debug\Exercicio77.pdb
+C:\Users\JohnnyDesktop\Desktop\Preparação Exame\Exercícios com Form\Exercícios\Exercicio77\Exercicio77\obj\Debug\Exercicio77.csprojAssemblyReference.cache
+C:\Users\JohnnyDesktop\Desktop\Preparação Exame\Exercícios com Form\Exercícios\Exercicio77\Exercicio77\obj\Debug\Exercicio77.Form1.resources
+C:\Users\JohnnyDesktop\Desktop\Preparação Exame\Exercícios com Form\Exercícios\Exercicio77\Exercicio77\obj\Debug\Exercicio77.Properties.Resources.resources
+C:\Users\JohnnyDesktop\Desktop\Preparação Exame\Exercícios com Form\Exercícios\Exercicio77\Exercicio77\obj\Debug\Exercicio77.csproj.GenerateResource.cache
+C:\Users\JohnnyDesktop\Desktop\Preparação Exame\Exercícios com Form\Exercícios\Exercicio77\Exercicio77\obj\Debug\Exercicio77.csproj.CoreCompileInputs.cache
+C:\Users\JohnnyDesktop\Desktop\Preparação Exame\Exercícios com Form\Exercícios\Exercicio77\Exercicio77\obj\Debug\Exercicio77.exe
+C:\Users\JohnnyDesktop\Desktop\Preparação Exame\Exercícios com Form\Exercícios\Exercicio77\Exercicio77\obj\Debug\Exercicio77.pdb

@@ -1,0 +1,10 @@
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\ExercicioSomaAlgarismos\ExercicioSomaAlgarismos\bin\Debug\ExercicioSomaAlgarismos.exe.config
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\ExercicioSomaAlgarismos\ExercicioSomaAlgarismos\bin\Debug\ExercicioSomaAlgarismos.exe
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\ExercicioSomaAlgarismos\ExercicioSomaAlgarismos\bin\Debug\ExercicioSomaAlgarismos.pdb
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\ExercicioSomaAlgarismos\ExercicioSomaAlgarismos\obj\Debug\ExercicioSomaAlgarismos.csprojAssemblyReference.cache
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\ExercicioSomaAlgarismos\ExercicioSomaAlgarismos\obj\Debug\ExercicioSomaAlgarismos.Form1.resources
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\ExercicioSomaAlgarismos\ExercicioSomaAlgarismos\obj\Debug\ExercicioSomaAlgarismos.Properties.Resources.resources
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\ExercicioSomaAlgarismos\ExercicioSomaAlgarismos\obj\Debug\ExercicioSomaAlgarismos.csproj.GenerateResource.cache
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\ExercicioSomaAlgarismos\ExercicioSomaAlgarismos\obj\Debug\ExercicioSomaAlgarismos.csproj.CoreCompileInputs.cache
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\ExercicioSomaAlgarismos\ExercicioSomaAlgarismos\obj\Debug\ExercicioSomaAlgarismos.exe
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\ExercicioSomaAlgarismos\ExercicioSomaAlgarismos\obj\Debug\ExercicioSomaAlgarismos.pdb

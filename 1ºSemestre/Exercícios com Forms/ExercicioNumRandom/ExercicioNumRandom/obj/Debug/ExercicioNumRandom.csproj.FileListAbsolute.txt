@@ -1,0 +1,10 @@
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\ExercicioNumRandom\ExercicioNumRandom\bin\Debug\ExercicioNumRandom.exe.config
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\ExercicioNumRandom\ExercicioNumRandom\bin\Debug\ExercicioNumRandom.exe
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\ExercicioNumRandom\ExercicioNumRandom\bin\Debug\ExercicioNumRandom.pdb
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\ExercicioNumRandom\ExercicioNumRandom\obj\Debug\ExercicioNumRandom.csprojAssemblyReference.cache
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\ExercicioNumRandom\ExercicioNumRandom\obj\Debug\ExercicioNumRandom.Form1.resources
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\ExercicioNumRandom\ExercicioNumRandom\obj\Debug\ExercicioNumRandom.Properties.Resources.resources
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\ExercicioNumRandom\ExercicioNumRandom\obj\Debug\ExercicioNumRandom.csproj.GenerateResource.cache
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\ExercicioNumRandom\ExercicioNumRandom\obj\Debug\ExercicioNumRandom.csproj.CoreCompileInputs.cache
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\ExercicioNumRandom\ExercicioNumRandom\obj\Debug\ExercicioNumRandom.exe
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\ExercicioNumRandom\ExercicioNumRandom\obj\Debug\ExercicioNumRandom.pdb
