@@ -1,0 +1,9 @@
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\Exercicio58\Exercicio58\bin\Debug\Exercicio58.exe.config
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\Exercicio58\Exercicio58\bin\Debug\Exercicio58.exe
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\Exercicio58\Exercicio58\bin\Debug\Exercicio58.pdb
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\Exercicio58\Exercicio58\obj\Debug\Exercicio58.Form1.resources
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\Exercicio58\Exercicio58\obj\Debug\Exercicio58.Properties.Resources.resources
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\Exercicio58\Exercicio58\obj\Debug\Exercicio58.csproj.GenerateResource.cache
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\Exercicio58\Exercicio58\obj\Debug\Exercicio58.csproj.CoreCompileInputs.cache
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\Exercicio58\Exercicio58\obj\Debug\Exercicio58.exe
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\Exercicio58\Exercicio58\obj\Debug\Exercicio58.pdb

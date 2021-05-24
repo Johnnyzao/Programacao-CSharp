@@ -1,0 +1,10 @@
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\Exercicio50\Exercicio50\bin\Debug\Exercicio50.exe.config
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\Exercicio50\Exercicio50\bin\Debug\Exercicio50.exe
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\Exercicio50\Exercicio50\bin\Debug\Exercicio50.pdb
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\Exercicio50\Exercicio50\obj\Debug\Exercicio50.csprojAssemblyReference.cache
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\Exercicio50\Exercicio50\obj\Debug\Exercicio50.Form1.resources
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\Exercicio50\Exercicio50\obj\Debug\Exercicio50.Properties.Resources.resources
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\Exercicio50\Exercicio50\obj\Debug\Exercicio50.csproj.GenerateResource.cache
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\Exercicio50\Exercicio50\obj\Debug\Exercicio50.csproj.CoreCompileInputs.cache
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\Exercicio50\Exercicio50\obj\Debug\Exercicio50.exe
+C:\Users\pedro5370\OneDrive - Maieutica\Introdução à programação\exercícios de programação\Exercicio50\Exercicio50\obj\Debug\Exercicio50.pdb
