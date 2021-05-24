@@ -1,0 +1,2 @@
+
+Programa que leia as notas de um aluno (inteiros) a 3 momentos de avaliação e apresente a nota final (double, arredondada a uma casa decimal). Se a pior nota for inferior a 10 a nota final será igual média das duas melhores notas. Em caso contrário a nota final será igual à média das 3 notas. 
