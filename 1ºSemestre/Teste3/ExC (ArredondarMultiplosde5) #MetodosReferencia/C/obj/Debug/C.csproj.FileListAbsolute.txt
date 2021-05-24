@@ -1,0 +1,20 @@
+C:\Users\a035188\Desktop\C\C\bin\Debug\C.exe.config
+C:\Users\a035188\Desktop\C\C\bin\Debug\C.exe
+C:\Users\a035188\Desktop\C\C\bin\Debug\C.pdb
+C:\Users\a035188\Desktop\C\C\obj\Debug\C.csprojAssemblyReference.cache
+C:\Users\a035188\Desktop\C\C\obj\Debug\C.Form1.resources
+C:\Users\a035188\Desktop\C\C\obj\Debug\C.Properties.Resources.resources
+C:\Users\a035188\Desktop\C\C\obj\Debug\C.csproj.GenerateResource.cache
+C:\Users\a035188\Desktop\C\C\obj\Debug\C.csproj.CoreCompileInputs.cache
+C:\Users\a035188\Desktop\C\C\obj\Debug\C.exe
+C:\Users\a035188\Desktop\C\C\obj\Debug\C.pdb
+C:\Users\JohnnyDesktop\Desktop\Preparação Exame\C\C\bin\Debug\C.exe.config
+C:\Users\JohnnyDesktop\Desktop\Preparação Exame\C\C\bin\Debug\C.exe
+C:\Users\JohnnyDesktop\Desktop\Preparação Exame\C\C\bin\Debug\C.pdb
+C:\Users\JohnnyDesktop\Desktop\Preparação Exame\C\C\obj\Debug\C.csprojAssemblyReference.cache
+C:\Users\JohnnyDesktop\Desktop\Preparação Exame\C\C\obj\Debug\C.Form1.resources
+C:\Users\JohnnyDesktop\Desktop\Preparação Exame\C\C\obj\Debug\C.Properties.Resources.resources
+C:\Users\JohnnyDesktop\Desktop\Preparação Exame\C\C\obj\Debug\C.csproj.GenerateResource.cache
+C:\Users\JohnnyDesktop\Desktop\Preparação Exame\C\C\obj\Debug\C.csproj.CoreCompileInputs.cache
+C:\Users\JohnnyDesktop\Desktop\Preparação Exame\C\C\obj\Debug\C.exe
+C:\Users\JohnnyDesktop\Desktop\Preparação Exame\C\C\obj\Debug\C.pdb
