@@ -1,0 +1,20 @@
+C:\Users\A035177\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExPessoaArvore\ExPessoaArvore\bin\Debug\ExPessoaArvore.exe.config
+C:\Users\A035177\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExPessoaArvore\ExPessoaArvore\bin\Debug\ExPessoaArvore.exe
+C:\Users\A035177\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExPessoaArvore\ExPessoaArvore\bin\Debug\ExPessoaArvore.pdb
+C:\Users\A035177\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExPessoaArvore\ExPessoaArvore\obj\Debug\ExPessoaArvore.csprojAssemblyReference.cache
+C:\Users\A035177\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExPessoaArvore\ExPessoaArvore\obj\Debug\ExPessoaArvore.Form1.resources
+C:\Users\A035177\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExPessoaArvore\ExPessoaArvore\obj\Debug\ExPessoaArvore.Properties.Resources.resources
+C:\Users\A035177\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExPessoaArvore\ExPessoaArvore\obj\Debug\ExPessoaArvore.csproj.GenerateResource.cache
+C:\Users\A035177\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExPessoaArvore\ExPessoaArvore\obj\Debug\ExPessoaArvore.csproj.CoreCompileInputs.cache
+C:\Users\A035177\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExPessoaArvore\ExPessoaArvore\obj\Debug\ExPessoaArvore.exe
+C:\Users\A035177\Desktop\PROGRAMAÇÃO ORIENTADA A OBJETOS\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExPessoaArvore\ExPessoaArvore\obj\Debug\ExPessoaArvore.pdb
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExPessoaArvore\ExPessoaArvore\bin\Debug\ExPessoaArvore.exe.config
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExPessoaArvore\ExPessoaArvore\bin\Debug\ExPessoaArvore.exe
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExPessoaArvore\ExPessoaArvore\bin\Debug\ExPessoaArvore.pdb
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExPessoaArvore\ExPessoaArvore\obj\Debug\ExPessoaArvore.csprojAssemblyReference.cache
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExPessoaArvore\ExPessoaArvore\obj\Debug\ExPessoaArvore.Form1.resources
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExPessoaArvore\ExPessoaArvore\obj\Debug\ExPessoaArvore.Properties.Resources.resources
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExPessoaArvore\ExPessoaArvore\obj\Debug\ExPessoaArvore.csproj.GenerateResource.cache
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExPessoaArvore\ExPessoaArvore\obj\Debug\ExPessoaArvore.csproj.CoreCompileInputs.cache
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExPessoaArvore\ExPessoaArvore\obj\Debug\ExPessoaArvore.exe
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExPessoaArvore\ExPessoaArvore\obj\Debug\ExPessoaArvore.pdb

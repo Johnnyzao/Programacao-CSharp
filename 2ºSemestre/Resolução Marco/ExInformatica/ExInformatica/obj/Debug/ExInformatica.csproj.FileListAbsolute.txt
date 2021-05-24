@@ -1,0 +1,20 @@
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExInformatica\ExInformatica\bin\Debug\ExInformatica.exe.config
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExInformatica\ExInformatica\bin\Debug\ExInformatica.exe
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExInformatica\ExInformatica\bin\Debug\ExInformatica.pdb
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExInformatica\ExInformatica\obj\Debug\ExInformatica.csprojAssemblyReference.cache
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExInformatica\ExInformatica\obj\Debug\ExInformatica.Form1.resources
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExInformatica\ExInformatica\obj\Debug\ExInformatica.Properties.Resources.resources
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExInformatica\ExInformatica\obj\Debug\ExInformatica.csproj.GenerateResource.cache
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExInformatica\ExInformatica\obj\Debug\ExInformatica.csproj.CoreCompileInputs.cache
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExInformatica\ExInformatica\obj\Debug\ExInformatica.exe
+C:\Users\marco\Google Drive\FACULDADE\PROGRAMAÇÃO\PROGRAMAÇÃO ORIENTADA A OBJETOS\EXERCÍCIOS\ExInformatica\ExInformatica\obj\Debug\ExInformatica.pdb
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExInformatica\ExInformatica\bin\Debug\ExInformatica.exe.config
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExInformatica\ExInformatica\bin\Debug\ExInformatica.exe
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExInformatica\ExInformatica\bin\Debug\ExInformatica.pdb
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExInformatica\ExInformatica\obj\Debug\ExInformatica.csprojAssemblyReference.cache
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExInformatica\ExInformatica\obj\Debug\ExInformatica.Form1.resources
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExInformatica\ExInformatica\obj\Debug\ExInformatica.Properties.Resources.resources
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExInformatica\ExInformatica\obj\Debug\ExInformatica.csproj.GenerateResource.cache
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExInformatica\ExInformatica\obj\Debug\ExInformatica.csproj.CoreCompileInputs.cache
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExInformatica\ExInformatica\obj\Debug\ExInformatica.exe
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\Exercícios Do Marco\ExInformatica\ExInformatica\obj\Debug\ExInformatica.pdb
