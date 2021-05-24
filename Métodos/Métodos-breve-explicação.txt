@@ -1,0 +1,306 @@
+Métodos:
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            listBox1.Items.Add("Alguém premiu o botão");
+            Trofa();
+            listBox1.Items.Add("Voltei da Trofa para o botão!");
+        }
+
+        void Trofa()
+        {
+            listBox1.Items.Add("Estou na Trofa!");
+            Paris();
+            listBox1.Items.Add("Estou outra vez na Trofa!");
+        }
+
+        void Paris()
+        {
+            listBox1.Items.Add("Estou em Paris!");
+        }
+
+------------------------------------------------------------------------------------
+        
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string nome = textBox1.Text;
+            string nome2 = textBox2.Text;
+            Trofa(nome, nome2);
+        }
+
+        void Trofa(string viajante, string passageiro)
+        {
+            listBox1.Items.Add(viajante + " e " + passageiro + " na Trofa!");
+            listBox1.Items.Add(viajante + " e " + passageiro + " de novo na Trofa!");
+        }
+
+------------------------------------------------------------------------------------
+        
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int num1 = Int32.Parse(textBox1.Text);
+            int num2 = Int32.Parse(textBox2.Text);
+            int soma = SomaNumeros(num1, num2);
+            label1.Text = "A soma é " + soma;
+        }
+
+        int SomaNumeros(int n1, int n2)
+        {
+            int s = n1 + n2;
+            return (s);
+        }
+
+------------------------------------------------------------------------------------
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int num1 = Int32.Parse(textBox1.Text);
+            int num2 = Int32.Parse(textBox2.Text);
+            if (SaoIguais(num1, num2))
+                label1.Text = "Os números são iguais!";
+            else
+                label1.Text = "Os números são diferentes!";
+        }
+
+        bool SaoIguais(int n1, int n2)
+        {
+            if (n1 == n2)
+                return (true);
+
+            return (false);
+        }
+
+------------------------------------------------------------------------------------
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int num1 = Int32.Parse(textBox1.Text);
+            int num2 = Int32.Parse(textBox2.Text);
+
+            label1.Text = "Antes " + num1 + " " + num2;
+            Modifica(ref num1, ref num2);
+            label1.Text += "\nDepois " + num1 + " " + num2;
+        }
+
+        void Modifica(ref int n1, ref int n2)
+        {
+            n1 = n1 + 10;
+            n2 = n2 + 10;
+        }
+
+------------------------------------------------------------------------------------
+
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int num1 = Int32.Parse(textBox1.Text);
+            int num2 = Int32.Parse(textBox2.Text);
+
+            label1.Text = "Resultado: " + ContarDivisiveis3(num1, num2);
+        }
+
+        void ContarDivisiveis3(int n1, int n2)
+        {
+		contador = 0;
+		for (int i = n1; i <= n2; i++)
+		{
+			if (i % 3 == 0)
+			contador++;
+		}
+		return (contador);
+
+        }
+
+------------------------------------------------------------------------------------
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int num1 = Int32.Parse(textBox1.Text);
+            int num2 = Int32.Parse(textBox2.Text);
+	    if (HaAlgumMultiploDe7(num1, num2))
+                label1.Text = "Existe";
+	    else
+		label1.Text = "Nao Existe";
+        }
+
+        bool HaAlgumMultiploDe7(int n1, int n2)
+        {
+		bool existe = false;
+		for (int i = n1; i <= n2; i++)
+		{
+			if (i % 7 == 0)
+			existe = true;
+		}
+		return (existe);
+
+        }
+
+------------------------------------------------------------------------------------
+
+ private void button1_Click(object sender, EventArgs e)
+        {
+            int num1 = int.Parse(textBox1.Text);
+            int num2 = int.Parse(textBox2.Text);
+            int num3 = int.Parse(textBox3.Text);
+
+            if TestarPrimos(num1, num2, num3)
+            {
+                label1.Text = "Há primos!";
+            }
+            else
+            {
+                label1.Text = "Não há primos!";
+            }
+            
+        }
+        bool TestarPrimos(int a, int b, int c)
+        {
+            bool primoa = true;
+            for (int i = 2; i < a; i++)
+            {
+                if (a % i==0)
+                {
+                    primoa = false;
+                }
+            }
+            bool primob = true;
+            for (int i = 2; i < b; i++)
+            {
+                if (b % i == 0)
+                {
+                    primob = false;
+                }
+            }
+            bool primoc = true;
+            for (int i = 2; i < c; i++)
+            {
+                if (c % i == 0)
+                {
+                    primoc = false;
+                }
+            }
+            if (primoa || primob|| primoc)
+            {
+                return(true);
+            }
+
+            return(false); // return (primoa || primob || primoc)
+        }
+
+------------------------------------------------------------------------------------
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int num1 = int.Parse(textBox1.Text);
+           
+                label1.Text = SomarInt(num1) + "";
+            
+            
+        }
+        int SomarInt(int a)
+        {
+            int soma = 0;
+            for (int i = 1; i <= a; i++)
+            {
+                soma += i;
+            }
+            return (soma);
+        }
+
+------------------------------------------------------------------------------------
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            double num1 = double.Parse(textBox1.Text);
+            double num2 = double.Parse(textBox2.Text);
+            double num3 = double.Parse(textBox3.Text);
+
+            label1.Text = Aleatorios(num1, num2, num3) + "";
+            
+        }
+        double Aleatorios(double a, double b, double c)
+        {
+            double maior = Math.Max(a, Math.Max(b, c));
+            double menor = Math.Min(a, Math.Min(b, c));
+            double meio = (a + b + c) - maior - menor;
+
+            double aleatorio = ale.NextDouble() * (maior - meio) + meio;
+            return (aleatorio);
+        }
+
+------------------------------------------------------------------------------------
+
+  private void button1_Click(object sender, EventArgs e)
+        {
+            int num1 = int.Parse(textBox1.Text);
+            int num2 = int.Parse(textBox2.Text);
+            int num3 = int.Parse(textBox3.Text);
+            int num4 = int.Parse(textBox4.Text);
+
+            label1.Text = MaiorNumero(num1, num2, num3,num4) + "";
+            
+        }
+        int MaiorNumero(int a, int b, int c, int d)
+        {
+            int au1 = a % 10;
+            int au2 = b % 10;
+            int au3 = c % 10;
+            int au4 = d % 10;
+
+
+            int max = Math.Max(Math.Max(au1, au2), Math.Max(au3, au4));
+            if (au1 == max)
+            {
+                return (a);
+            }
+            else if (au2 == max)
+            {
+                return (b);
+            }
+            else if (au3 == max)
+            {
+                return (c);
+            }
+            else
+            {
+                return (d);
+            }
+        }
+
+------------------------------------------------------------------------------------
+
+public partial class Form1 : Form
+    {
+        Random aleatorio = new Random();
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int num1 = int.Parse(textBox1.Text);
+            int num2 = int.Parse(textBox2.Text);
+
+            label1.Text = PrimosAleatorios(num1, num2)+ "";
+            
+        }
+        int PrimosAleatorios(int a, int b)
+        {
+            bool primo;
+            int numero = 0;
+            do
+            {
+                numero = ale.Next(a, b + 1);
+                primo = true;
+                for (int i = 2; i < numero ; i++)
+                {
+                    if (numero % i==0)
+                    {
+                        primo = false;
+                    }
+                }
+            } while (!primo);
+            return (numero);
+        }
+    }
