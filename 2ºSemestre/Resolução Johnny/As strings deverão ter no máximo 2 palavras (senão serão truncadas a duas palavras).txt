@@ -1,0 +1,11 @@
+private string marca;
+
+        public string Marca
+        {
+            get { return marca; }
+            set
+            {
+                string[] aux = value.Split(' ');
+                marca = aux[0] + ' ' + aux[1];
+            }
+        }

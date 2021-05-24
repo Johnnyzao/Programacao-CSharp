@@ -1,0 +1,9 @@
+public override double Area()
+        {
+            return 6 * Math.Pow(this.Lado,2);
+        }
+
+public override double Volume()
+        {
+            return Math.Pow(this.Lado, 3);
+        }

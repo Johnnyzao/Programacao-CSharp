@@ -1,0 +1,6 @@
+public override double Area()
+        {
+            double p = (this.Lado1 + this.Lado2 + this.Lado3) / 2;
+            double conta = p * (p - this.Lado1) * (p - this.Lado2) * (p - this.Lado3);
+            return conta > 0 ? Math.Sqrt(Math.Abs(conta)) : 0;
+        }

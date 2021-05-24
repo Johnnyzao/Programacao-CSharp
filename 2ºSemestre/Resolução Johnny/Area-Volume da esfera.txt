@@ -1,0 +1,9 @@
+public override double Area()
+        {
+            return 4 * Math.PI * Math.Pow(this.Raio,2);
+        }
+
+public override double Volume()
+        {
+            return 4.0/3.0 * Math.PI * Math.Pow(this.Raio,3);
+        } 

@@ -1,0 +1,16 @@
+ dentro da propriedade
+if (value.Length == 8 && value[2] == '-' && value[5] == '-')
+                {
+                    if (Char.IsLetter(value[0]) && Char.IsLetter(value[1]) &&
+                        Char.IsDigit(value[3]) && Char.IsDigit(value[4]) &&
+                        Char.IsDigit(value[6]) && Char.IsDigit(value[7]))
+                    {
+                        matricula = value;
+                    }
+                    else
+                        matricula = "AA-00-00";
+                }
+                else
+                {
+                    matricula = "AA-00-00";
+                }

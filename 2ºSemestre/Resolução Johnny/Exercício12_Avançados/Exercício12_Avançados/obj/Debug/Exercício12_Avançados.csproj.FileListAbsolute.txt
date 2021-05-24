@@ -1,0 +1,20 @@
+D:\Aulas\Curso Programação\PROGRAMAÇÂO\2ºSemestre\Exercício12_Avançados\Exercício12_Avançados\bin\Debug\Exercício12_Avançados.exe.config
+D:\Aulas\Curso Programação\PROGRAMAÇÂO\2ºSemestre\Exercício12_Avançados\Exercício12_Avançados\bin\Debug\Exercício12_Avançados.exe
+D:\Aulas\Curso Programação\PROGRAMAÇÂO\2ºSemestre\Exercício12_Avançados\Exercício12_Avançados\bin\Debug\Exercício12_Avançados.pdb
+D:\Aulas\Curso Programação\PROGRAMAÇÂO\2ºSemestre\Exercício12_Avançados\Exercício12_Avançados\obj\Debug\Exercício12_Avançados.csprojAssemblyReference.cache
+D:\Aulas\Curso Programação\PROGRAMAÇÂO\2ºSemestre\Exercício12_Avançados\Exercício12_Avançados\obj\Debug\Exercício12_Avançados.Form1.resources
+D:\Aulas\Curso Programação\PROGRAMAÇÂO\2ºSemestre\Exercício12_Avançados\Exercício12_Avançados\obj\Debug\Exercício12_Avançados.Properties.Resources.resources
+D:\Aulas\Curso Programação\PROGRAMAÇÂO\2ºSemestre\Exercício12_Avançados\Exercício12_Avançados\obj\Debug\Exercício12_Avançados.csproj.GenerateResource.cache
+D:\Aulas\Curso Programação\PROGRAMAÇÂO\2ºSemestre\Exercício12_Avançados\Exercício12_Avançados\obj\Debug\Exercício12_Avançados.csproj.CoreCompileInputs.cache
+D:\Aulas\Curso Programação\PROGRAMAÇÂO\2ºSemestre\Exercício12_Avançados\Exercício12_Avançados\obj\Debug\Exercício12_Avançados.exe
+D:\Aulas\Curso Programação\PROGRAMAÇÂO\2ºSemestre\Exercício12_Avançados\Exercício12_Avançados\obj\Debug\Exercício12_Avançados.pdb
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\2ºSemestre\Exercício12_Avançados\Exercício12_Avançados\bin\Debug\Exercício12_Avançados.exe.config
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\2ºSemestre\Exercício12_Avançados\Exercício12_Avançados\bin\Debug\Exercício12_Avançados.exe
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\2ºSemestre\Exercício12_Avançados\Exercício12_Avançados\bin\Debug\Exercício12_Avançados.pdb
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\2ºSemestre\Exercício12_Avançados\Exercício12_Avançados\obj\Debug\Exercício12_Avançados.csprojAssemblyReference.cache
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\2ºSemestre\Exercício12_Avançados\Exercício12_Avançados\obj\Debug\Exercício12_Avançados.Form1.resources
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\2ºSemestre\Exercício12_Avançados\Exercício12_Avançados\obj\Debug\Exercício12_Avançados.Properties.Resources.resources
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\2ºSemestre\Exercício12_Avançados\Exercício12_Avançados\obj\Debug\Exercício12_Avançados.csproj.GenerateResource.cache
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\2ºSemestre\Exercício12_Avançados\Exercício12_Avançados\obj\Debug\Exercício12_Avançados.csproj.CoreCompileInputs.cache
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\2ºSemestre\Exercício12_Avançados\Exercício12_Avançados\obj\Debug\Exercício12_Avançados.exe
+C:\Users\jpjoa\OneDrive\Ambiente de Trabalho\Teste Programação\2ºSemestre\Exercício12_Avançados\Exercício12_Avançados\obj\Debug\Exercício12_Avançados.pdb

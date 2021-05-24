@@ -1,0 +1,8 @@
+public string Iniciais()
+        {
+             return new string(Nome.Split(' ').Select(x => x.First()).ToArray()).ToUpper();
+            //string[] sigla = Nome.Split();
+            //foreach (string res in sigla)
+            //    nsigla[] = res.Substring(0,1);
+            //return Nome.ToUpper();
+        }

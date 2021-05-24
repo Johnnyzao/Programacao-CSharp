@@ -1,0 +1,10 @@
+private DateTime dataMatricula;
+
+        public DateTime DataMatricula
+        {
+            get { return dataMatricula; }
+            set {
+                if (value <= DateTime.MinValue)
+                    dataMatricula = new DateTime(1900, 01, 01);
+                else dataMatricula = value; }
+        }
