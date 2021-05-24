@@ -1,0 +1,10 @@
+\\zeno\alunos$\A035189\Programação 2ºSemestre\Exemplo1\Exemplo1\bin\Debug\Exemplo1.exe.config
+\\zeno\alunos$\A035189\Programação 2ºSemestre\Exemplo1\Exemplo1\bin\Debug\Exemplo1.exe
+\\zeno\alunos$\A035189\Programação 2ºSemestre\Exemplo1\Exemplo1\bin\Debug\Exemplo1.pdb
+\\zeno\alunos$\A035189\Programação 2ºSemestre\Exemplo1\Exemplo1\obj\Debug\Exemplo1.csprojAssemblyReference.cache
+\\zeno\alunos$\A035189\Programação 2ºSemestre\Exemplo1\Exemplo1\obj\Debug\Exemplo1.Form1.resources
+\\zeno\alunos$\A035189\Programação 2ºSemestre\Exemplo1\Exemplo1\obj\Debug\Exemplo1.Properties.Resources.resources
+\\zeno\alunos$\A035189\Programação 2ºSemestre\Exemplo1\Exemplo1\obj\Debug\Exemplo1.csproj.GenerateResource.cache
+\\zeno\alunos$\A035189\Programação 2ºSemestre\Exemplo1\Exemplo1\obj\Debug\Exemplo1.csproj.CoreCompileInputs.cache
+\\zeno\alunos$\A035189\Programação 2ºSemestre\Exemplo1\Exemplo1\obj\Debug\Exemplo1.exe
+\\zeno\alunos$\A035189\Programação 2ºSemestre\Exemplo1\Exemplo1\obj\Debug\Exemplo1.pdb

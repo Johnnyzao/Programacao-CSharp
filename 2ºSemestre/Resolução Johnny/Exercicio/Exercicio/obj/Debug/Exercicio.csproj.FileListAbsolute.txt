@@ -1,0 +1,10 @@
+C:\Users\a035189\Desktop\Programação 2ºSemestre\Exercicio\Exercicio\bin\Debug\Exercicio.exe.config
+C:\Users\a035189\Desktop\Programação 2ºSemestre\Exercicio\Exercicio\bin\Debug\Exercicio.exe
+C:\Users\a035189\Desktop\Programação 2ºSemestre\Exercicio\Exercicio\bin\Debug\Exercicio.pdb
+C:\Users\a035189\Desktop\Programação 2ºSemestre\Exercicio\Exercicio\obj\Debug\Exercicio.csprojAssemblyReference.cache
+C:\Users\a035189\Desktop\Programação 2ºSemestre\Exercicio\Exercicio\obj\Debug\Exercicio.Form1.resources
+C:\Users\a035189\Desktop\Programação 2ºSemestre\Exercicio\Exercicio\obj\Debug\Exercicio.Properties.Resources.resources
+C:\Users\a035189\Desktop\Programação 2ºSemestre\Exercicio\Exercicio\obj\Debug\Exercicio.csproj.GenerateResource.cache
+C:\Users\a035189\Desktop\Programação 2ºSemestre\Exercicio\Exercicio\obj\Debug\Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\a035189\Desktop\Programação 2ºSemestre\Exercicio\Exercicio\obj\Debug\Exercicio.exe
+C:\Users\a035189\Desktop\Programação 2ºSemestre\Exercicio\Exercicio\obj\Debug\Exercicio.pdb

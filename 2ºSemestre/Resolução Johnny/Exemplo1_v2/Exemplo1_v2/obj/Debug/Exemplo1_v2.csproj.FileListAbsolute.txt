@@ -1,0 +1,9 @@
+C:\Users\a035189\Desktop\Programação 2ºSemestre\Exemplo1_v2\Exemplo1_v2\bin\Debug\Exemplo1_v2.exe.config
+C:\Users\a035189\Desktop\Programação 2ºSemestre\Exemplo1_v2\Exemplo1_v2\bin\Debug\Exemplo1_v2.exe
+C:\Users\a035189\Desktop\Programação 2ºSemestre\Exemplo1_v2\Exemplo1_v2\bin\Debug\Exemplo1_v2.pdb
+C:\Users\a035189\Desktop\Programação 2ºSemestre\Exemplo1_v2\Exemplo1_v2\obj\Debug\Exemplo1_v2.csprojAssemblyReference.cache
+C:\Users\a035189\Desktop\Programação 2ºSemestre\Exemplo1_v2\Exemplo1_v2\obj\Debug\Exemplo1_v2.Properties.Resources.resources
+C:\Users\a035189\Desktop\Programação 2ºSemestre\Exemplo1_v2\Exemplo1_v2\obj\Debug\Exemplo1_v2.csproj.GenerateResource.cache
+C:\Users\a035189\Desktop\Programação 2ºSemestre\Exemplo1_v2\Exemplo1_v2\obj\Debug\Exemplo1_v2.csproj.CoreCompileInputs.cache
+C:\Users\a035189\Desktop\Programação 2ºSemestre\Exemplo1_v2\Exemplo1_v2\obj\Debug\Exemplo1_v2.exe
+C:\Users\a035189\Desktop\Programação 2ºSemestre\Exemplo1_v2\Exemplo1_v2\obj\Debug\Exemplo1_v2.pdb
