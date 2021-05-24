@@ -1,0 +1,9 @@
+C:\Users\pedro\OneDrive - Maieutica\Introdução à programação\exercícios de programação\Exercicio65\Exercicio65\bin\Debug\Exercicio65.exe.config
+C:\Users\pedro\OneDrive - Maieutica\Introdução à programação\exercícios de programação\Exercicio65\Exercicio65\bin\Debug\Exercicio65.exe
+C:\Users\pedro\OneDrive - Maieutica\Introdução à programação\exercícios de programação\Exercicio65\Exercicio65\bin\Debug\Exercicio65.pdb
+C:\Users\pedro\OneDrive - Maieutica\Introdução à programação\exercícios de programação\Exercicio65\Exercicio65\obj\Debug\Exercicio65.Form1.resources
+C:\Users\pedro\OneDrive - Maieutica\Introdução à programação\exercícios de programação\Exercicio65\Exercicio65\obj\Debug\Exercicio65.Properties.Resources.resources
+C:\Users\pedro\OneDrive - Maieutica\Introdução à programação\exercícios de programação\Exercicio65\Exercicio65\obj\Debug\Exercicio65.csproj.GenerateResource.cache
+C:\Users\pedro\OneDrive - Maieutica\Introdução à programação\exercícios de programação\Exercicio65\Exercicio65\obj\Debug\Exercicio65.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive - Maieutica\Introdução à programação\exercícios de programação\Exercicio65\Exercicio65\obj\Debug\Exercicio65.exe
+C:\Users\pedro\OneDrive - Maieutica\Introdução à programação\exercícios de programação\Exercicio65\Exercicio65\obj\Debug\Exercicio65.pdb
