@@ -1,0 +1,8 @@
+public bool ComparaData(DateTime a)
+        {
+            int num = DateTime.Compare(this.DataMatricula, a);
+
+            if (num < 0)
+                return true;
+            return false;
+        }
