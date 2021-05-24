@@ -1,0 +1,10 @@
+c:\users\pedro\source\repos\Exercicio63\Exercicio63\bin\Debug\Exercicio63.exe.config
+c:\users\pedro\source\repos\Exercicio63\Exercicio63\bin\Debug\Exercicio63.exe
+c:\users\pedro\source\repos\Exercicio63\Exercicio63\bin\Debug\Exercicio63.pdb
+c:\users\pedro\source\repos\Exercicio63\Exercicio63\obj\Debug\Exercicio63.csprojAssemblyReference.cache
+c:\users\pedro\source\repos\Exercicio63\Exercicio63\obj\Debug\Exercicio63.Form1.resources
+c:\users\pedro\source\repos\Exercicio63\Exercicio63\obj\Debug\Exercicio63.Properties.Resources.resources
+c:\users\pedro\source\repos\Exercicio63\Exercicio63\obj\Debug\Exercicio63.csproj.GenerateResource.cache
+c:\users\pedro\source\repos\Exercicio63\Exercicio63\obj\Debug\Exercicio63.csproj.CoreCompileInputs.cache
+c:\users\pedro\source\repos\Exercicio63\Exercicio63\obj\Debug\Exercicio63.exe
+c:\users\pedro\source\repos\Exercicio63\Exercicio63\obj\Debug\Exercicio63.pdb
